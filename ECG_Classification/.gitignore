@@ -1,0 +1,9 @@
+#########Jupyter Notebooks#########
+.ipynb_checkpoints/*
+
+# Data
+.data/
+
+# Python compiled files
+__pycache__/
+*.pyc
